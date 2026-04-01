@@ -1,0 +1,28 @@
+# Build artifacts
+huffman
+*.o
+*.obj
+*.exe
+*.out
+
+# JetBrains / CLion
+.idea/
+*.iml
+cmake-build-*/
+
+# macOS
+.DS_Store
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.user
+*.suo
+*.pdb
+*.ilk
+*.ipch
+*.tlog
+*.log
+*.cache
+
